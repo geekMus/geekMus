@@ -6,9 +6,13 @@
 
 ## 技术栈
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=ffffff)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=ffffff)
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=ffffff)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=ffffff)
 
 ## 活跃情况
 
