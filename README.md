@@ -1,9 +1,3 @@
-## 关于我
-
-- JavaScript / TypeScript 开发者
-- 主要使用 Cloudflare（Workers / R2 / Edge Computing）
-- 记录技术与思考：**https://blog.mus.pp.ua**
-
 ## 技术栈
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000)
