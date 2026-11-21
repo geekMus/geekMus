@@ -19,7 +19,3 @@
           srcset="https://raw.githubusercontent.com/geekMus/geekMus/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/geekMus/geekMus/output/github-contribution-grid-snake.svg" />
 </picture>
-
-## 链接
-
-- 博客：https://blog.mus.pp.ua
